@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\number par C#\number par C#\bin\Debug\net8.0\number par C#.exe
+C:\Users\USER\source\repos\number par C#\number par C#\bin\Debug\net8.0\number par C#.deps.json
+C:\Users\USER\source\repos\number par C#\number par C#\bin\Debug\net8.0\number par C#.runtimeconfig.json
+C:\Users\USER\source\repos\number par C#\number par C#\bin\Debug\net8.0\number par C#.dll
+C:\Users\USER\source\repos\number par C#\number par C#\bin\Debug\net8.0\number par C#.pdb
+C:\Users\USER\source\repos\number par C#\number par C#\obj\Debug\net8.0\number par C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\number par C#\number par C#\obj\Debug\net8.0\number par C#.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\number par C#\number par C#\obj\Debug\net8.0\number par C#.AssemblyInfo.cs
+C:\Users\USER\source\repos\number par C#\number par C#\obj\Debug\net8.0\number par C#.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\number par C#\number par C#\obj\Debug\net8.0\number par C#.dll
+C:\Users\USER\source\repos\number par C#\number par C#\obj\Debug\net8.0\refint\number par C#.dll
+C:\Users\USER\source\repos\number par C#\number par C#\obj\Debug\net8.0\number par C#.pdb
+C:\Users\USER\source\repos\number par C#\number par C#\obj\Debug\net8.0\number par C#.genruntimeconfig.cache
+C:\Users\USER\source\repos\number par C#\number par C#\obj\Debug\net8.0\ref\number par C#.dll
